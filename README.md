@@ -16,7 +16,7 @@
 ## 취미
 
 ### 글쓰기를 좋아합니다.
-- [개발 블로그 쓰기](https://velog.io/@gogo78)
+- [블로그](https://movie42.github.io)
 - [제주 한달살기](https://post.naver.com/my/series/detail.naver?seriesNo=652652&memberNo=578262)
 
 ### 음악작곡
